@@ -6,6 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on University of Chinese Acedemy of Sciences.
-- 🌱 I’m currently learning Trustworthy AI,including adversarial attack,backdoor attack,data privacy and so on.
+🔭 I’m currently studying on University of Chinese Acedemy of Sciences.
+🌱 I’m currently learning Trustworthy AI,including adversarial attack,backdoor attack,data privacy and so on.
 
